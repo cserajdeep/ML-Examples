@@ -8,4 +8,4 @@ Linear Regression: https://towardsdatascience.com/linear-regression-detailed-vie
 
 Logistic Regression: https://www.youtube.com/watch?v=yIYKR4sgzI8
 
-# Machine Learning Examples
+# Machine Learning Tutorials
